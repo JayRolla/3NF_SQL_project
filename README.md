@@ -1,6 +1,6 @@
-## SQL-projects
+# SQLir-projects
 
-# Bhejane Trading Project
+#3 Bhejane Trading Project
 
 This project was created as part of the Explore A.I Academy bootcamp. 
 
