@@ -1,4 +1,4 @@
-# SQLite-projects
+# SQLite-project
 
 #3 Bhejane Trading Project
 
